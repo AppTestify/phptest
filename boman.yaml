@@ -1,0 +1,7 @@
+Auth:
+  project_token: a707ec74-2049-41ce-9c27-dea3975be7bd
+  customer_token: 3cbcacd1-5fd0-47e2-be76-6000f79cd84c
+SAST:
+  language: semgrep
+SCA:
+  language: php
