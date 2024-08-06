@@ -14,4 +14,4 @@ boman-ai-scan:
     - . /path/to/venv/bin/activate
     - pip install setuptools
     - pip install boman-cli
-    - boman-cli -a run
+    - boman-cli -a run -u https://qa.boman.ai
